@@ -3,6 +3,9 @@ iDimensionz's Standard PHP Library
 
 Library containing custom classes.
 
+[![Code Climate](https://codeclimate.com/github/idimensionz/ispl/badges/gpa.svg)](https://codeclimate.com/github/idimensionz/ispl)
+[![Test Coverage](https://codeclimate.com/github/idimensionz/ispl/badges/coverage.svg)](https://codeclimate.com/github/idimensionz/ispl/coverage)
+
 **Enum** (_EnumAbstract_)
 
 Class to emulate enumerated fields (i.e. fields that may only specific values).
